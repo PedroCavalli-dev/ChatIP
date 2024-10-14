@@ -57,6 +57,7 @@ public class ChatClientGUI extends JFrame {
                 e.printStackTrace();
             }
         });
+        //teste
 
         sendButton.setPreferredSize(new Dimension(80, 30));
         sendButton.setMinimumSize(new Dimension(80, 30));
